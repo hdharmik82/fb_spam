@@ -12,7 +12,7 @@ This project uses the fbchat library to send lines from the Bee movie to your fr
 	Open Terminal/CMD/Shell and type pip install fbchat
 ### Step 2 – Clone the file from GitHub and extract it
 	Change the directory of the terminal to the folders where files are downloaded
-	You can do this by - cd /Downloads/fb_spam/ 
+	You can do this by - cd /Downloads/fb_spam-master/ 
 ### Step 3 – Run the file 
 	In terminal write python fb.py
 
