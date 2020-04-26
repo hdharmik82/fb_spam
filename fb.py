@@ -1,9 +1,16 @@
+#########################################
+#Coded By: Hemanshu Dharmik             #
+#Version: 1.0                           #
+#Build Date: 2020/04/26                 #
+#Buid Time: 23:17:56                    #
+#########################################
 import getpass
 import fbchat
 from fbchat.models import *
 import time
 
 def main():
+    print("##############Coded By: Hemanshu Dharmik##############")
     client = fbchat.Client(input('Username: '), getpass.getpass())
     friends = client.searchForUsers(input('Who do you want to spam? '))
     friend_id = friends[0].uid
