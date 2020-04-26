@@ -1,6 +1,7 @@
 ## About Project
 
 This project uses the fbchat library to send lines from the Bee movie to your friends on Facebook.
+**Bee movie script contains more than 19000 words so i replaced it with the Uptown Funk Lyrics**
 
 ## Pre-requisite 
 1.	Basic knowledge of Python Programming.
